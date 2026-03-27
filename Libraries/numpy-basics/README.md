@@ -119,5 +119,7 @@ python arrays.py
 ---
 
 ## 💡 Author
-
-Learning Machine Learning step-by-step 🚀
+Abdur Rehman Farooq  
+Artificial Intelligence Student   🚀  
+Building Machine Learning projects and learning step-by-step
+GitHub: https://github.com/AbdurRehmanFar00q
