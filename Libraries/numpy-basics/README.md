@@ -105,7 +105,7 @@ column_array + row_array
 ## ▶️ How to Run
 
 ```bash
-python arrays.py
+python Notebook.ipynb
 ```
 
 ---
