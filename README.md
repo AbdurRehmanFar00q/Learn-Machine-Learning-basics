@@ -27,7 +27,7 @@ This repo contains three main sections:
 
 ## 📊 ML Methods & Projects
 
-- **Regression:** Linear Regression, Polynomial Regression  
+- **Regression:** Linear Regression 
   - Student Score Predictor  
   - House Price Prediction  
 
